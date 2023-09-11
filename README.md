@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Aditya-Narayan-Rai
-- 👀 I’m interested in Data Sicence and Machine Learning
+- I am a Master's student of Data Science for Public Policy at Hertie School, Berlin
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning R
 - 📫 How to reach me - adityanarayan1709@gmail.com
 

@@ -2,7 +2,7 @@
 - I am a Master's student of Data Science for Public Policy at Hertie School, Berlin
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning R
-- 📫 How to reach me - adityanarayan1709@gmail.com
+- 📫 How to reach me - 235843@students.hertie-school.org
 
 <!---
 Aditya-Narayan-Rai/Aditya-Narayan-Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
